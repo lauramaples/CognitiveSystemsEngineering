@@ -1,4 +1,4 @@
-# CognitiveSystemsEngineering
+# Cognitive Systems Engineering
 Overview of the literature that a Cognitive Systems Engineering PhD student should be familiar with!
 
 *Cognitive Systems Engineering*
