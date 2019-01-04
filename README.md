@@ -29,3 +29,8 @@ Human Systems Integration
 
 Human-Automation teaming
 
+
+Cognitive Systems Engineering Methods
+  Uncovering The requirements of cognitive work -  Roth, E. M. (2008). Uncovering the requirements of cognitive work. Human factors, 50(3), 475-480.
+  
+  
